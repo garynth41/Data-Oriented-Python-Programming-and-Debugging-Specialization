@@ -21,3 +21,10 @@ In “Data-Oriented Python Programming and Debugging,” you will develop Python
 Statistics; Python (Programming Language); SciPy; Debugging; NumPy; Data Analysis; Critical Thinking; Pandas (Python Package); Data Manipulation
 
 Perform Python debugging assignments on real data sets using Jupyter notebooks. Build your skills through debugging challenges and practice labs, using data sets from sports, weather, movies, and more. Complete a capstone project showcasing your skills as a data-oriented debugger using a transportation data set.  
+
+# Instructors
+![image](https://github.com/user-attachments/assets/86131ef1-1752-4566-a49e-1188b0c6b41e) Paul Resnick; University of Michigan
+
+![image](https://github.com/user-attachments/assets/7df6e0d3-adfc-417d-91fe-bdc05fee3dc1) Elle O'Brien; University of Michigan
+
+![image](https://github.com/user-attachments/assets/d3776e46-9db2-49ea-ad0a-2e852e3b551f) Anthony Whyte; University of Michigan
